@@ -1,0 +1,1 @@
+This project contains a Solidity smart contract deployed on the [Scroll Sepolia network](https://sepolia.scrollscan.com//address/0xB14af7b403069cCF441c782f84DeC11A3AbA0E53#code). It is my submission for the [Level Up Scroll ERC20 challenge](https://www.levelup.xyz/challenges/ERC20).
