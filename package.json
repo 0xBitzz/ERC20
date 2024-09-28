@@ -1,0 +1,11 @@
+{
+  "name": "erc20",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/0xBitzz/ERC20.git",
+  "author": "0xBitzz <successdaudu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
